@@ -38,7 +38,7 @@ Besides my coding and data science work at Bosch, I am also a landscape photogra
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.boschdevcloud.com/XPE1SZH/xpe1szh/blob/main/assets/ansys.jpg" title="Ansys APDL" alt="Ansys APDL" width="40" height="40"/>&nbsp;
+  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEqczYRTk3m-g/company-logo_200_200/0/1625183723486?e=1668643200&v=beta&t=fKKnsdGl8xpj00atwUKq3mcDN71t691gf-sMKm-j0n8" title="Ansys APDL" alt="Ansys APDL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
 </div>
@@ -46,7 +46,7 @@ Besides my coding and data science work at Bosch, I am also a landscape photogra
 ## :hammer_and_wrench: Software tools
 
 <div>
-  <img src="https://github.boschdevcloud.com/XPE1SZH/xpe1szh/blob/main/assets/ansys.jpg" title="Ansys" alt="Ansys" width="40" height="40"/>&nbsp;
+  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEqczYRTk3m-g/company-logo_200_200/0/1625183723486?e=1668643200&v=beta&t=fKKnsdGl8xpj00atwUKq3mcDN71t691gf-sMKm-j0n8" title="Ansys" alt="Ansys" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
