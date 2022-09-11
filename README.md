@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 
 Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my first name actually), and I am a CAE simulation engineer in areas of electronic components, as well as a developer @[Bosch](https://en.wikipedia.org/wiki/Robert_Bosch_GmbH).
 
-I am passionate about bring OpenSource and OS style working into traditional mechanical engineering world, to make a difference there.
+- 🔭 I develop [Ansys](http://www.ansys.com/)-based automated [FEM](https://en.wikipedia.org/wiki/Finite_element_method) simulations for [electronic component](https://en.wikipedia.org/wiki/Electronic_component) mechanical reliability evaluations
 
-Besides my coding and data science work at Bosch, I am also a landscape photographer, a Japanese speaking beginner, light Nintendo Switch player, and taking care of 2 cats.
+- 🔭 I also work on research projects focusing on hybrid modeling industrialization for electronic components
+
+- 👯 I am passionate about bring OpenSource and OS style working into traditional mechanical engineering world, to make a difference there. I support the community and community members with my expertise
+
+- ⚡ Besides my coding and data science work at Bosch, I am also a landscape photographer, a Japanese speaking beginner, light Nintendo Switch player, and taking care of 2 cats.
 
 ### My Resume
 
