@@ -37,8 +37,8 @@ Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my fir
 | Year | Job/Position | Organization | Working content |
 | ---- | ------------ | ------------ | --------------- |
 | 2021.01 - Present | Department Digitalization Officer | Automotive Electronics, Bosch China | Digitalization Community, digitalization onboarding, use cases |
-| 2020.01 - Present | Developer, Senior Simulation Engineer | Automotive Electronics, Bosch China | FEM simulation automation development for electronic components |
-| 2017.05 - 20219.12 | Simulation Engineer | Automotive Electronics, Bosch China | FEM reliability simulation for electronic components |
+| 2020.01 - Present | Developer, Senior Simulation Engineer | Automotive Electronics, Bosch China | FEM simulation automation development for electronic components, research projects on hybrid modeling |
+| 2017.05 - 2019.12 | Simulation Engineer | Automotive Electronics, Bosch China | FEM reliability simulation for electronic components |
 
 ## :man_technologist: Software languages
 
