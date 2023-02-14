@@ -30,7 +30,7 @@ Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my fir
 
 - 👯 I am a community leader within my organization, also advocating and training Ansys ACT automation, Python programming, and git & GitHub
 
-- ⚡ Besides my coding and data science work at Bosch, I am also a landscape photographer, a Japanese speaking beginner, light Nintendo Switch player, and taking care of 2 cats
+- ⚡ Besides my coding and data science work at Bosch, I am also a landscape photographer, a Japanese speaking beginner, light Nintendo Switch player, and taking care of one cat
 
 ### My Resume
 
