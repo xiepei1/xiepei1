@@ -36,8 +36,8 @@ Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my fir
 
 | Year | Job/Position | Organization | Working content |
 | ---- | ------------ | ------------ | --------------- |
-| 2023.10 - Present | Simulation team lead | Automotive Electronics, Bosch China | Takes care of global responsibility of simulations of [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board)-AIT ([solder joints](https://rushpcb.com/what-is-a-solder-joint/), [pressfit](https://www.te.com/de/products/connectors/automotive-connectors/intersection/press-fit-connections.html?tab=pgp-story), PCB, [electronic components](https://en.wikipedia.org/wiki/Electronic_component), ...) technologies |
-| 2021.01 - 2023.10 | Department Digitalization Officer | Automotive Electronics, Bosch China | Digitalization Community, digitalization onboarding, use cases |
+| 2023.10 - Present | Simulation team lead, leader of Center of Expertise of PCB-A simulations (Bosch worldwide team) | Automotive Electronics, Bosch China | Takes care of global responsibility of simulations of [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board)-AIT (such as [solder joints](https://rushpcb.com/what-is-a-solder-joint/), [pressfit](https://www.te.com/de/products/connectors/automotive-connectors/intersection/press-fit-connections.html?tab=pgp-story), PCB, [electronic components](https://en.wikipedia.org/wiki/Electronic_component), ...) technologies |
+| 2021.01 - 2023.10 | Department Digitalization Officer, Sr. Simulation Engineer | Automotive Electronics, Bosch China | Digitalization Community, digitalization onboarding, use cases |
 | 2020.01 - 2022.12 | Developer, Senior Simulation Engineer | Automotive Electronics, Bosch China | FEM simulation automation development for electronic components, research projects on hybrid modeling |
 | 2017.05 - 2019.12 | Simulation Engineer | Automotive Electronics, Bosch China | FEM reliability simulation for electronic components |
 
