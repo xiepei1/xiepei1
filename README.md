@@ -24,11 +24,11 @@ Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my fir
 
 - 🔭 I am a seasoned developer of [Ansys](http://www.ansys.com/)-based automated [FEM](https://en.wikipedia.org/wiki/Finite_element_method) simulations, and internally at Bosch proposed pyact concept to bridge the Ansys ACT components and dedicated simulation workflows
 
-- 🔭 I also work on research projects focusing on [hybrid modeling](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-022-00123-0) industrialization for electronic components
+- 🔭 I work on research projects focusing on [hybrid modeling](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-022-00123-0) industrialization for electronic components
 
 - 👯 I am passionate about bring OpenSource and its style working into traditional mechanical engineering world, to make a difference there
 
-- 👯 I am a team leader, an envanglist for professional scientific programming, as well as a community leader within my organization
+- 👯 I am a team leader within my organization, an envanglist for Python and GitHub within my community
 
 - ⚡ Besides my coding and data science work at Bosch, I am also a landscape photographer, a Japanese speaking beginner, light Nintendo Switch player, and taking care of 2 cats
 
@@ -36,10 +36,11 @@ Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my fir
 
 | Year | Job/Position | Organization | Working content |
 | ---- | ------------ | ------------ | --------------- |
-| 2023.10 - Present | Simulation team lead, leader of Center of Expertise of PCB-A simulations (Bosch worldwide team) | Automotive Electronics, Bosch China | Takes care of global responsibility of simulations of [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board)-AIT (such as [solder joints](https://rushpcb.com/what-is-a-solder-joint/), [pressfit](https://www.te.com/de/products/connectors/automotive-connectors/intersection/press-fit-connections.html?tab=pgp-story), PCB, [electronic components](https://en.wikipedia.org/wiki/Electronic_component), ...) technologies |
-| 2021.01 - 2023.10 | Department Digitalization Officer, Sr. Simulation Engineer | Automotive Electronics, Bosch China | Digitalization Community, digitalization onboarding, use cases |
-| 2020.01 - 2022.12 | Developer, Senior Simulation Engineer | Automotive Electronics, Bosch China | FEM simulation automation development for electronic components, research projects on hybrid modeling |
-| 2017.05 - 2019.12 | Simulation Engineer | Automotive Electronics, Bosch China | FEM reliability simulation for electronic components |
+| 2023.10 - Present | <ul><li>Simulation team lead</li><li>leader of Center of Expertise of PCB-A simulations (Bosch worldwide team)</li></ul> | Mobility Electronics, Bosch China | <ul><li>lead an 8-member + 3-student local team</li><li>full responsibility and accountability of business area "simulations of [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board)-AIT (such as [solder joints](https://rushpcb.com/what-is-a-solder-joint/), [pressfit](https://www.te.com/de/products/connectors/automotive-connectors/intersection/press-fit-connections.html?tab=pgp-story), PCB, [electronic components](https://en.wikipedia.org/wiki/Electronic_component), ...) technologies"</li><li>lead an 18-member international team (China, Germany, Hungary, Portugal</li></ul> |
+| 2022.01 - 2023.10 | Department Digitalization Officer | Automotive Electronics, Bosch China | <ul><li>digitalization community organization</li><li>digitalization onboarding, use cases</li><li>culture and mindset change, trainings</li></ul> |
+| 2021.01 - 2022.12 | Sr. Simulation Engineer | Automotive Electronics, Bosch China | <ul><li>FEM simulation automation development for electronic components</li><li>research projects on hybrid modeling</li></ul> |
+| 2020.05 - 2021.12 | Simulation Engineer | Automotive Electronics, Bosch China | <ul><li>FEM reliability simulation for electronic components, solder joint reliability for automotives</li><li>FEM simulation automation development for electronic components</li></ul> |
+| 2017.05 - 2019.12 | Jr. Simulation Engineer | Automotive Electronics, Bosch China | FEM reliability simulation for electronic components, solder joint reliability for automotives |
 
 ## :man_technologist: Software languages
 
