@@ -1,17 +1,3 @@
-<!--
-**xiepei1/xiepei1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Xie+Pei's+GitHub+Profile...&center=true&size=15">
@@ -22,15 +8,30 @@ Here are some ideas to get you started:
 
 Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my first name actually), and I am a CAE simulation engineer in areas of automotive electronics, as well as a developer @[Bosch](https://en.wikipedia.org/wiki/Robert_Bosch_GmbH).
 
-- 🔭 I am a seasoned developer of [Ansys](http://www.ansys.com/)-based automated [FEM](https://en.wikipedia.org/wiki/Finite_element_method) simulations, and internally at Bosch proposed pyact concept to bridge the Ansys ACT components and dedicated simulation workflows
+### Personal Motivation
 
-- 🔭 I work on research projects focusing on [hybrid modeling](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-022-00123-0) industrialization for electronic components
+- I am passionate about bring OpenSource and its style working into traditional mechanical engineering world, to make a difference there
+- I enjoy bringing cutting edge technologies to improve the state-of-the-art in my responsibility area such as automotive reliability engineering and simulations
+- I love to develop communities and enhance community bonds via free knowledge sharing, transparent documentation and personal networking
 
-- 👯 I am passionate about bring OpenSource and its style working into traditional mechanical engineering world, to make a difference there
+### Technical Experiences
 
-- 👯 I am a team leader within my organization, an envanglist for Python and GitHub within my community
+- I am a seasoned developer of [Ansys](http://www.ansys.com/)-based automated [FEM](https://en.wikipedia.org/wiki/Finite_element_method) simulations, and internally at Bosch proposed and developed pyact concept to bridge the Ansys ACT components and dedicated simulation workflows
 
-- ⚡ Besides my coding and data science work at Bosch, I am also a landscape photographer, a Japanese speaking beginner, light Nintendo Switch player, and taking care of 2 cats
+- I am also a seasoned Python developer, developing Bosch internal reliability toolchains and platforms to facilitate knowledge exchange via internal Python packages, Restful APIs, and web applications
+
+- I work on research projects focusing on [hybrid modeling](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-022-00123-0), machine learning / AI industrialization for electronic components and automotive ECU designs
+
+- I am a FEM simulation specialist, and >8 years working experiences of automotive reliability simulation & engineering with focus on solder joint reliability of electronic components
+
+### Organizational Leadership Experiences
+
+- I am a team leader within my organization, managing a team of 10 colleagues in R&D area
+- I am also a virtual international organization leader, leading a community specialized at simulation, with 18 team members from China, Germany, Hungary and Portugal
+
+### Personal Life
+
+- Besides my coding and data science work at Bosch, I am also a landscape photographer, a Japanese speaking beginner, light Nintendo Switch player, and taking care of 2 cats
 
 ### My Resume
 
@@ -41,6 +42,10 @@ Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my fir
 | 2021.01 - 2022.12 | Sr. Simulation Engineer | Automotive Electronics, Bosch China | <ul><li>FEM simulation automation development for electronic components</li><li>research projects on hybrid modeling</li></ul> |
 | 2020.05 - 2021.12 | Simulation Engineer | Automotive Electronics, Bosch China | <ul><li>FEM reliability simulation for electronic components, solder joint reliability for automotives</li><li>FEM simulation automation development for electronic components</li></ul> |
 | 2017.05 - 2019.12 | Jr. Simulation Engineer | Automotive Electronics, Bosch China | FEM reliability simulation for electronic components, solder joint reliability for automotives |
+
+### Educational Background
+
+* Master & Bachelor degree in mechanical engineering, Nanjing University of Aeronautics and Astronautics
 
 ## :man_technologist: Software languages
 
