@@ -6,11 +6,12 @@
 
 ## :handshake: Brief Introduction
 
-Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my first name actually), and I am a CAE simulation engineer in areas of automotive electronics, as well as a developer @[Bosch](https://en.wikipedia.org/wiki/Robert_Bosch_GmbH).
+Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my first name actually), and I am a manager in Technology & Competence Development in engineering area, a CAE simulation engineer in areas of automotive electronics, as well as a developer @[Bosch](https://en.wikipedia.org/wiki/Robert_Bosch_GmbH).
 
 ### Personal Motivation
 
 - I am passionate about accelerating the advent of a future of excitement and abundance.
+- That is being said, I am passionate about bringing change initatives and pushing everything needed to make changes happen in the international Fortune-Global-500 organization, and motivating everyone around me to actively and positively embracing the change.
 
 ### Commitment to "Love of Humanity" 
 
