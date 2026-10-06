@@ -14,7 +14,8 @@ Hello! My name is [Xie Pei](https://www.linkedin.com/in/pei-xie/) (Pei is my fir
 
 ### Commitment to "Love of Humanity" 
 
-- I am committed to support community stray cats for their well-beings
+- I support my surroundings in my workplace for the embracing the excited future as an Evangelist of AI an AI-native working, via self-organized communities, personal initiatives and combining personal influences on organizational capability developments.
+- I am also a volunteer to support community stray cats for their well-beings. I have developed a dedicated WeChat mini-program called "Feline Care" to support my initiative.
 
 ### My Resume
 
